@@ -1,0 +1,30 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+p.abajo {
+    position: relative;
+    top: 180px;
+}
+
+div.carta {
+    display: inline;
+    position: relative;
+    left: 100px;
+}
+
+div.cafe {
+    display: inline;
+    position: relative;
+    left: 860px;
+}
+
+div.contacto {
+    display: inline;
+    position: relative;
+    left: 1620px;
+}
